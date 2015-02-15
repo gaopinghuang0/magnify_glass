@@ -10,6 +10,9 @@
  *   
  * Homepage:
  *   http://web.ics.purdue.edu/~huang679
+ *   
+ * GitHub:
+ *   https://github.com/gaopinghuang0/magnify_glass
  *    
  * Dependencies:
  * 	jQuery u1.7+
