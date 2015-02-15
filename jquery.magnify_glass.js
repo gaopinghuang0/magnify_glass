@@ -29,6 +29,7 @@
 		var native_height = 0;
 		$this = $(this);
 		var picUrl="url('"+$this.find(".small").attr('src')+"') no-repeat";
+		console.log(picUrl);
 		$this.css("position", 'relative');
 		var config = {
 				height: '175px',

@@ -24,6 +24,6 @@ It is adopted and modified from [this page](http://thecodeplayer.com/walkthrough
   </body>
 </html>
 ```
-See Demo here
+See [Demo here](http://jsfiddle.net/xpc3va3y/5/)
 
 
