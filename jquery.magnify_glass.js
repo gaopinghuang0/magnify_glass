@@ -15,8 +15,8 @@
  *   https://github.com/gaopinghuang0/magnify_glass
  *    
  * Dependencies:
- * 	jQuery u1.7+
- *  CSS3 vendor prefixes
+ *   jQuery u1.7+
+ *   CSS3 vendor prefixes
  */
 
 (function($) {
@@ -28,7 +28,7 @@
 		var native_width = 0;
 		var native_height = 0;
 		$this = $(this);
-		var picUrl="url('."+$this.find(".small").attr('src')+"') no-repeat";
+		var picUrl="url('"+$this.find(".small").attr('src')+"') no-repeat";
 		$this.css("position", 'relative');
 		var config = {
 				height: '175px',
