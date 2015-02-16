@@ -3,8 +3,6 @@
  * 
  * Adopted from http://thecodeplayer.com/walkthrough/magnifying-glass-for-images-using-jquery-and-css3
  * 
- * @version v1.0 (02/2015)
- *  
  * Modified by:
  *   Gaoping Huang
  *   
