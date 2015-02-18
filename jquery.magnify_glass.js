@@ -1,7 +1,7 @@
 /*
  * jQuery magnify glass
  * 
- * Adopted from http://thecodeplayer.com/walkthrough/magnifying-glass-for-images-using-jquery-and-css3
+ * Adapted from http://thecodeplayer.com/walkthrough/magnifying-glass-for-images-using-jquery-and-css3
  * 
  * Modified by:
  *   Gaoping Huang
