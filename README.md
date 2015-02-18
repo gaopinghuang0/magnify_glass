@@ -16,9 +16,10 @@ It is adopted and modified from [thecodeplayer.com](http://thecodeplayer.com/wal
   </head>
   <body>
     <div class="magnify" style="width:400px;">
-        	<!-- the large content is cloned from the small content -->
+      <!-- the large content is cloned from the small content -->
     	<div class="large"></div>
-        <img class="small" src="https://farm4.staticflickr.com/3816/13541002244_b09843740e_b.jpg" alt="small"/>
+    	<!-- the demo picture is from flickr creative common -->
+      <img class="small" src="https://farm4.staticflickr.com/3816/13541002244_b09843740e_b.jpg" alt="small"/>
    <p>(Auto-magnify when mouse over photo)</p>
     </div>
   </body>
