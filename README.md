@@ -1,5 +1,5 @@
 Magnifying glass is implemented by jQuery and CSS3.
-It is adopted and modified from [thecodeplayer.com](http://thecodeplayer.com/walkthrough/magnifying-glass-for-images-using-jquery-and-css3)
+It is adapted from [thecodeplayer.com](http://thecodeplayer.com/walkthrough/magnifying-glass-for-images-using-jquery-and-css3)
 #magnify_glass
 ###Example1:
 ```html
