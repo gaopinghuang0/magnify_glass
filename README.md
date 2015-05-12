@@ -27,4 +27,3 @@ It is adapted from [thecodeplayer.com](http://thecodeplayer.com/walkthrough/magn
 ```
 See [Demo here](http://jsfiddle.net/xpc3va3y/5/)
 
-
